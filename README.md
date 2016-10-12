@@ -1,5 +1,7 @@
 # Compilador Lukasiewicz
 
+![build status](https://travis-ci.org/lucaspetry/lukasiewicz-compiler.svg?branch=master)
+
 - Na pasta **projeto1**, utilize os seguintes comandos:
 
 | Função                 | Comando      |
