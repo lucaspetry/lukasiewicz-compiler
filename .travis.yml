@@ -9,4 +9,5 @@ install:
 - sudo apt-get install flex
 
 script:
+- cd projeto1
 - make
