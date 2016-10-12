@@ -9,6 +9,7 @@ install:
 - tar -xvzf bison-3.0.4.tar.gz
 - cd bison-3.0.4
 - ./configure && make && sudo make install
+- cd ..
 - sudo apt-get install flex
 
 script:
